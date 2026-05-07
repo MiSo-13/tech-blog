@@ -1,0 +1,10 @@
+title: "tech-blog"
+description: "개발하며 배운 점을 기록하는 기술 블로그입니다."
+author: "MiSo"
+url: "https://miso-13.github.io"
+baseurl: "/tech-blog"
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+timezone: Asia/Seoul
+exclude:
+  - README.md
